@@ -236,4 +236,4 @@ else
 	exit 2
 fi
 
-special "Theos has been successfully installed! Ваш кастомный патч полностью рабочий."
+special "Theos has been successfully installed! This installer was patched by Krutifulmen xD"
